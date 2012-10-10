@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+        <ListView
+	        android:id="@id/android:list"
+	        android:layout_width="fill_parent"
+	        android:layout_height="394dp"
+	        android:layout_margin="5dp"
+	        android:layout_weight="0.95"
+	        android:cacheColorHint="#0000"
+	        android:clipToPadding="true"
+	        android:dividerHeight="1px"
+	        android:scrollbars="none"
+	        android:soundEffectsEnabled="true" >
+
+	    </ListView>
+
+</RelativeLayout>
