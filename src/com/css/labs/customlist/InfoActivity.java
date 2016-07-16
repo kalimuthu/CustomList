@@ -22,6 +22,7 @@ public class InfoActivity extends Activity {
 		txtNo.setText("NO   :"+application.getListPojo().get(id).getNo());
 		txtpost.setText("Post :"+application.getListPojo().get(id).getPost());
 		txtdec.setText("Desc :"+application.getListPojo().get(id).getDesc());
+		txtdec.setText("Yogendra Singh Chandel");
 	}
 
 }
